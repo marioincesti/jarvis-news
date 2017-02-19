@@ -11,5 +11,5 @@ jv_pg_news() {
 }
 
 jv_pg_news_2d() {
-  ruby plugin/jarvis-news/it/news.rb oggi
+  ruby plugin/jarvis-news/it/news.rb 
 }
