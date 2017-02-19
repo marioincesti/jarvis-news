@@ -1,1 +1,3 @@
-*news (*)|*notizie (*)|*notizia (*)|*Notizie (*)==say "Controllo le notizie di oggi..." && say "$(jv_pg_news "(1)")"
+*news (*)|*notizie (*)|*notizia (*)|*Notizie (*)==say "Controllo le notizie per (1)..." && say "$(jv_pg_news "(1)")"
+*news oggi|*notizie oggi|*notizia oggi|*Notizie (*)==say "Controllo le notizie di oggi..." && say "$(jv_pg_news_2d)"
+
