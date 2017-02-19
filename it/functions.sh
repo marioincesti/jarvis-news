@@ -8,5 +8,4 @@
 # You can use translations provided in the language folders functions.sh
 jv_pg_news() {
   ruby news.rb $1
-  echo " entra "
 }
