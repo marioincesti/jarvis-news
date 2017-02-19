@@ -1,1 +1,1 @@
-*oroscopo (*)*==say "Ecco l'oroscopo per (1)" && say "$(jv_pg_oroscopo "(1)")"
+*news (*) *|*notizie (*) *==say "Controllo le notizie di oggi..." && say "$($jv_pg_news "(1)")"
