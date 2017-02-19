@@ -7,9 +7,9 @@
 # XX is a short code for your plugin, ex: ww for Weather Wunderground
 # You can use translations provided in the language folders functions.sh
 jv_pg_news() {
-  ruby news.rb $1
+  ruby plugin/jarvis-news/it/news.rb $1
 }
 
 jv_pg_news_2d() {
-  ruby news.rb oggi
+  ruby plugin/jarvis-news/it/news.rb oggi
 }
