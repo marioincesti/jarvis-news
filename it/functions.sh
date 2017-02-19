@@ -9,3 +9,7 @@
 jv_pg_news() {
   ruby news.rb $1
 }
+
+jv_pg_news_2d() {
+  ruby news.rb oggi
+}
