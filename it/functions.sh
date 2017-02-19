@@ -7,5 +7,5 @@
 # XX is a short code for your plugin, ex: ww for Weather Wunderground
 # You can use translations provided in the language folders functions.sh
 jv_pg_news() {
-  echo $(ruby news.rb $1)
+  ruby news.rb "$1"
 }
